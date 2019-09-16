@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Helohelo1
+=======
+Helohelo2
+>>>>>>> branch 'master' of https://github.com/afplabor2019/hello-world.git
